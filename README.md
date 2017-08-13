@@ -1,2 +1,2 @@
 # CSKeyboard
-This is sample project that custom keyboard do test.
+This is a sample project for testing a custom keyboard.
